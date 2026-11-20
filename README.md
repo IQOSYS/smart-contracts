@@ -156,6 +156,16 @@ Run tests against the exact revision being reviewed.
 
 ## Deployments
 
+### Polygon mainnet
+
+**Chain ID:** `137`
+
+| Contract | Address |
+| --- | --- |
+| HashRegistry (IQOSYS Vault proofs) | [`0xeda7f04d01734658b054a5cb6a6af8caa5e904db`](https://polygonscan.com/address/0xeda7f04d01734658b054a5cb6a6af8caa5e904db) |
+
+Anyone can check an IQOSYS Vault proof against this contract with the open-source [IQOSYS Vault verifier](https://github.com/IQOSYS/vault-verifier) ([online](https://iqosys.github.io/vault-verifier/)).
+
 ### Polygon Amoy (test network)
 
 **Chain ID:** `80002` · **Deployment block:** `50548536`
